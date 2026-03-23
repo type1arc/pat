@@ -39,3 +39,7 @@ You can install Pat using one of the following methods:
 
 ---
 Latest release available now [*click here to download*](https://github.com/type1arc/pat)
+
+## About the Name
+
+The name **Pat** is a playful homage to classic Unix command-line utilities. It combines the spirit of `bat` (a cat clone with syntax highlighting) and `cat` (the traditional file concatenation tool), but implemented in Python. **Pat** stands for "**P**ython **AT**" – bringing together the best of both worlds with the simplicity and elegance of Python.
